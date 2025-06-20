@@ -1,0 +1,70 @@
+{
+  "stars": [
+    {
+      "spectralType": "G",
+      "planets": [
+        {
+          "composition": "Terrestrial",
+          "name": "Mars",
+          "age": 4.603
+        },
+        {
+          "composition": "IceGiant",
+          "name": "Neptune",
+          "age": 4.5
+        },
+        {
+          "composition": "Dwarf",
+          "name": "Pluto",
+          "age": 4.5
+        },
+        {
+          "composition": "Terrestrial",
+          "name": "Mercury",
+          "age": 4.5
+        },
+        {
+          "composition": "Terrestrial",
+          "name": "Venus",
+          "age": 4.5
+        },
+        {
+          "composition": "Terrestrial",
+          "name": "Earth",
+          "age": 4.54
+        },
+        {
+          "composition": "GasGiant",
+          "name": "Jupiter",
+          "age": 4.5
+        },
+        {
+          "composition": "GasGiant",
+          "name": "Saturn",
+          "age": 4.6
+        },
+        {
+          "composition": "IceGiant",
+          "name": "Uranus",
+          "age": 4.6
+        }
+      ],
+      "name": "Sun",
+      "age": 4.6
+    },
+    {
+      "spectralType": "M",
+      "planets": [
+        {
+          "composition": "Ice",
+          "name": "Proxima Centauri b",
+          "age": 4.85
+        }
+      ],
+      "name": "Proxima Centauri",
+      "age": 4.85
+    }
+  ],
+  "name": "Milky Way",
+  "age": 13.2
+}
